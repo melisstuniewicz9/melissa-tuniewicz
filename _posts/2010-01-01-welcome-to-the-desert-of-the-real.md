@@ -1,13 +1,13 @@
 ---
 date: 2019-05-16 23:48:05
 layout: post
-title: Welcome to the desert 
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Doing Gender: A Photo Essay
+subtitle: 'SOAN2400'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://images.unsplash.com/photo-1739054729987-4b3c60f072a2?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D.jpg
+  https://images.unsplash.com/photo-1631467777918-c43fa5f178c3?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D.jpg
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
