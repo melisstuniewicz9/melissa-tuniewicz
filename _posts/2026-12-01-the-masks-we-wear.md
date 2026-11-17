@@ -1,139 +1,64 @@
 ---
 date: 2026-10-25
 layout: post
-title: The Masks We Wear - A Digital Story
+title: The Masks We Wear - A Digital Story Draft
 subtitle: 'Pending...'
 description: Pending...
 image: https://images.unsplash.com/photo-1588954521862-f481c36a1115?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D.jpg
 category: life
 tags:
-  - books
-  - read
 author: melissa tuniewicz
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+**Authors Note:**
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Hello fellow classmate!
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+ I’d like to briefly thank you for the time you’ll be spending reviewing my work. Any constructive criticism or feedback will be enthusiastically incorporated into the final version of my digital story. 
 
-<!--page-->
+ Before I introduce the piece, I'd like to emphasize that the following work contains vulnerable depictions of my ongoing experiences with social anxiety disorder and discusses excessive alcohol consumption as a condition to maintaining an active social life. Please exercise kindness when reading, as I can imagine that understanding these experiences reflect my own may affect the way I am perceived. 
 
-## Inline HTML elements
+**Summary:**
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+[Twine](https://twinery.org/)
+If the visuals appear rather uninteresting in their current state, do not fret! In place of the stock images that are currently used as background visuals, the finished game will instead incorporate original vector illustrations. While I have not yet completed any of the pieces, I will attach some sketches to provide an idea of how the visuals are going to look. 
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+<figure>
+  <img src="https://github.com/melisstuniewicz9/twine-story/blob/main/party_twine_line.png?raw=true" alt="Unfinished sketch of girl at a house party">
+  <figcaption>
+    'Unfinished sketch of girl at a house party.' By <a href="" target="_blank" rel="noopener">Melissa Tuniewicz</a>
+  </figcaption>
+</figure>
 
-Most of these elements are styled by browsers with few modifications on our part.
+<figure>
+  <img src="https://github.com/melisstuniewicz9/twine-story/blob/main/colour_party_resize.png">
+  <figcaption>
+    'Unfinished sketch of girl at a house party (colour ver).' By <a href="" target="_blank" rel="noopener">Melissa Tuniewicz</a>
+  </figcaption>
+</figure>
 
-<!--page-->
+<figure>
+  <img src="https://raw.githubusercontent.com/melisstuniewicz9/twine-story/refs/heads/main/colour_party_resize.png" alt="Unfinished drawing of a WLU campus buidling">
+  <figcaption>
+    'Unfinished drawing of a WLU campus buidling.' By <a href="" target="_blank" rel="noopener">Melissa Tuniewicz</a>
+  </figcaption>
+</figure>
 
-# Heading 1
+Happy playing 😀
 
-## Heading 2
+**Works Cited
 
-### Heading 3
+Beautiful Free Images & Pictures. (n.d.). Unsplash. Retrieved November 16, 2026, from https://unsplash.com/
 
-#### Heading 4
+Easley, J. A. (2010). Study measures effect of drinking on college grades. UC Davis. https://www.ucdavis.edu/news/study-measures-effect-drinking-college-grades
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+The best free stock photos, royalty free images & videos shared by creators. (n.d.). Pexels. Retrieved November 16, 2026, from https://www.pexels.com/
 
-## Code
+Walukevich-Dienst, K., Blayney, J. A., Fairlie, A. M., Jaffe, A. E., & Larimer, M. E. (2022). Social Anxiety and Pre-Party Motives Are Associated With Alcohol-Related Negative Consequences During College Students’ Most Recent Pre-Party Occasion. Journal of Studies on Alcohol and Drugs, 83(6), 820–828. https://doi.org/10.15288/jsad.21-00434 
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
 
-```js
-// Example can be run directly in your JavaScript console
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-<!--page-->
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-<!--page-->
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-<!--page-->
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 
 
