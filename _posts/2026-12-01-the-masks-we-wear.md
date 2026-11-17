@@ -27,27 +27,27 @@ If the visuals appear rather uninteresting in their current state, do not fret! 
 <figure>
   <img src="https://github.com/melisstuniewicz9/twine-story/blob/main/party_twine_line.png?raw=true" alt="Unfinished sketch of girl at a house party">
   <figcaption>
-    'Unfinished sketch of girl at a house party.' By <a href="" target="_blank" rel="noopener">Melissa Tuniewicz</a>
+    'Unfinished sketch of girl at a house party.' By <a href="https://www.linkedin.com/in/melissa-tuniewicz-379101332/" target="_blank" rel="noopener">Melissa Tuniewicz</a>
   </figcaption>
 </figure>
 
 <figure>
-  <img src="https://github.com/melisstuniewicz9/twine-story/blob/main/colour_party_resize.png">
+  <img src="https://github.com/melisstuniewicz9/twine-story/blob/main/colour_party_resize.png?raw=true">
   <figcaption>
-    'Unfinished sketch of girl at a house party (colour ver).' By <a href="" target="_blank" rel="noopener">Melissa Tuniewicz</a>
+    'Unfinished sketch of girl at a house party (colour ver).' By <a href="https://www.linkedin.com/in/melissa-tuniewicz-379101332/" target="_blank" rel="noopener">Melissa Tuniewicz</a>
   </figcaption>
 </figure>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/melisstuniewicz9/twine-story/refs/heads/main/colour_party_resize.png" alt="Unfinished drawing of a WLU campus buidling">
+  <img src="https://github.com/melisstuniewicz9/twine-story/blob/main/party_School.png?raw=true" alt="Unfinished drawing of a WLU campus buidling">
   <figcaption>
-    'Unfinished drawing of a WLU campus buidling.' By <a href="" target="_blank" rel="noopener">Melissa Tuniewicz</a>
+    'Unfinished drawing of a WLU campus buidling.' By <a href="https://www.linkedin.com/in/melissa-tuniewicz-379101332/" target="_blank" rel="noopener">Melissa Tuniewicz</a>
   </figcaption>
 </figure>
 
 Happy playing 😀
 
-**Works Cited
+**Works Cited**
 
 Beautiful Free Images & Pictures. (n.d.). Unsplash. Retrieved November 16, 2026, from https://unsplash.com/
 
